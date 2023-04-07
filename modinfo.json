@@ -4,11 +4,12 @@
     "id": "no_hope_monster_bandits",
     "name": "No Hope Monster Bandits",
     "authors": [ "Night_Pryanik", "echoloth" ],
-    "maintainers": [ "literally no one" ],
+    "maintainers": [ "someone?" ],
     "description": "No Hope, but bandit npcs are replaced with monster bandits from \"Compatible Add Bandits\" by Malkeus",
     "category": "content",
-    "dependencies": [ "dda", "GOV_BANDITS" ],
-    "version": "3.0"
+    "dependencies": [ "bn" ],
+    "conflicts": [ "dda", "no_hope" ],
+    "version": "3.0.0.1"
   },
   {
     "type": "monster_adjustment",
